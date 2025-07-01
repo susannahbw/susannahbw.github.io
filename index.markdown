@@ -33,28 +33,6 @@ feature_row:
     btn_label: "Meet the group" 
   
 ---
-<style>
-a:link {
-  color: black;
-  background-color: transparent;
-  text-decoration: none;
-}
-a:visited {
-  color: black;
-  background-color: transparent;
-  text-decoration: none;
-}
-a:hover {
-  color: black;
-  background-color: transparent;
-  text-decoration: underline;
-}
-a:active {
-  color: black;
-  background-color: transparent;
-  text-decoration: underline;
-}
-</style>
 
 <center>
 <p>We are a new and growing theoretical and computational chemistry group at Durham University. Our focus is understanding how the behaviour of photoexcited molecules (molecules that have absorbed light) can be influenced, or even controlled, through interactions with their surroundings.</p>
@@ -71,4 +49,4 @@ a:active {
 <hr class="solid">
 <center>
 
-{% include feature_row2.html %}
+{% include feature_row.html %}
