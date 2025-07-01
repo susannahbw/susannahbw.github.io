@@ -10,33 +10,51 @@ excerpt: >
   Simulating photoexcited molecules in complex environments.
 
 feature_row:
-  - image_path: /assets/images/leaf.jpeg
-    alt: "customizable"
-    title: "Modelling dynamics of large systems"
-    excerpt: ""
-    url: "/docs/configuration/"
-    btn_class: "btn--primary"
-    btn_label: "Learn about our research"
-  - image_path: /assets/images/leaf.jpeg
-    alt: "fully responsive"
-    title: "Environmental control in nature"
+  - image_path: assets/images/BclInAntenna.jpg
+    alt: ""
+    title: ""
     excerpt: ""
     url: "/docs/layouts/"
-    btn_class: "btn--primary"
+    btn_class: "button"
+    btn_label: "Learn about our research"
+  - image_path: /assets/images/jcp.2021.154.issue-12.cover1.jpg
+    alt: ""
+    title: ""
+    excerpt: ""
+    url: "/docs/layouts/"
+    btn_class: "button"
     btn_label: "Read our papers"
-  - image_path: /assets/images/leaf.jpeg
-    alt: "100% free"
-    title: "Tuneable photochemistry"
+  - image_path: /assets/images/ROYAL_COMMISSION_1851_090.jpg
+    alt: ""
+    title: ""
     excerpt: ""
     url: "/docs/license/"
-    btn_class: "btn--primary"
-    btn_label: "Meet our group"    
-    
-button:
-  btn_class: "button"
-  btn_label: "Contact us"
+    btn_class: "button"
+    btn_label: "Meet the group" 
+  
 ---
-
+<style>
+a:link {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: black;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: black;
+  background-color: transparent;
+  text-decoration: underline;
+}
+</style>
 
 <center>
 <p>We are a new and growing theoretical and computational chemistry group at Durham University. Our focus is understanding how the behaviour of photoexcited molecules (molecules that have absorbed light) can be influenced, or even controlled, through interactions with their surroundings.</p>
@@ -45,11 +63,12 @@ button:
 
 <p>We are always keen to hear from potential new collaborators or group members. If you are interested in working with us, please get in touch.</p>
 
-<p>{% include button.html btn_class="button" btn_label="Contact us"%}</p>
+{% include button.html %}
+<p><a href="/docs/layouts/" class="button">{{"Contact us"}}</a></p>
 
-<p>{% include button.html btn_class="button" btn_label="Explore opportunities in the group"%}</p>
+<p><a href="/docs/layouts/" class="button">{{"Explore opportunities in the group"}}</a></p>
 
 <hr class="solid">
 <center>
 
-{% include feature_row %}
+{% include feature_row2.html %}
