@@ -21,14 +21,14 @@ feature_row:
     alt: ""
     title: ""
     excerpt: ""
-    url: "/docs/layouts/"
+    url: "/test/"
     btn_class: "button"
     btn_label: "Read our papers"
   - image_path: /assets/images/ROYAL_COMMISSION_1851_090.jpg
     alt: ""
     title: ""
     excerpt: ""
-    url: "/docs/license/"
+    url: "/opportunities/"
     btn_class: "button"
     btn_label: "Meet the group" 
   
@@ -42,9 +42,9 @@ feature_row:
 <p>We are always keen to hear from potential new collaborators or group members. If you are interested in working with us, please get in touch.</p>
 
 {% include button.html %}
-<p><a href="/docs/layouts/" class="button">{{"Contact us"}}</a></p>
+<p><a href="/opportunities/#contact-us" class="button">{{"Contact us"}}</a></p>
 
-<p><a href="/docs/layouts/" class="button">{{"Explore opportunities in the group"}}</a></p>
+<p><a href="/opportunities/#open-positions" class="button">{{"Explore opportunities in the group"}}</a></p>
 
 <hr class="solid">
 <center>

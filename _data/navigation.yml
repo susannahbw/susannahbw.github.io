@@ -1,0 +1,7 @@
+main:
+  - title: Home
+    url: /
+  - title: Opportunities
+    url: /opportunities/
+  - title: Test 
+    url: /test/
