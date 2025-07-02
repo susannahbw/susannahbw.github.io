@@ -1,7 +1,8 @@
 main:
   - title: Home
     url: /
+  - title: Research 
+    url: /research/
   - title: Opportunities
     url: /opportunities/
-  - title: Test 
-    url: /test/
+

@@ -3,7 +3,6 @@ layout: splash
 title: "Opportunities"
 permalink: /opportunities/
 author_profile: false
-hidden: false
 header:
   overlay_image: /assets/images/Leaf2_cropped.jpeg
 ---
