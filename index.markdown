@@ -28,7 +28,7 @@ feature_row:
     alt: ""
     title: ""
     excerpt: ""
-    url: "/opportunities/"
+    url: "/group/"
     btn_class: "button"
     btn_label: "Meet the group" 
   

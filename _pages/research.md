@@ -5,7 +5,6 @@ permalink: /research/
 author_profile: false
 header:
   overlay_image: /assets/images/Leaf2_cropped.jpeg
-toc: true
 ---
 {% include responsive_two_column.html%}
 {% include link.html%}
