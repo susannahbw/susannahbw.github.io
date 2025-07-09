@@ -27,11 +27,11 @@ header:
 
 <div class="row">
   <div class="columnleft" >
-    <img src="/assets/images/lh2_antenna_birdseye.jpg" alt="Placeholder image" width="400px">
+    <img src="/assets/images/EB_profilepic.jpeg" alt="Esther Bourne profile picture" width="300px">
   </div>
   <div class="columnleft" >
   <h1> Esther Bourne </h1>
-<p>Esther will be joining the group in October 2025 to start a PhD exploring efficient methods for modelling the excited state dynamics of large biochromophores. </p>
+<p>Esther completed her MSci in Chemistry and Physics at Durham University in 2024, with a final year project focusing on characterising amorphous drugs using molecular dynamics simulations and NMR. She is interested in the application of computational chemistry to understand complex materials, particularly within the field of sustainability. In her spare time she enjoys travelling, gaming and going to the gym. Esther will be joining the group in October 2025 to start a PhD exploring efficient methods for modelling the excited state dynamics of large biochromophores. </p>
   </div>
 </div>
 
