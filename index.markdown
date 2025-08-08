@@ -17,7 +17,7 @@ feature_row:
     url: "/research/"
     btn_class: "button"
     btn_label: "Learn about our research"
-  - image_path: /assets/images/jcp.2021.154.issue-12.cover1.jpg
+  - image_path: /assets/images/JPCLett_toc.jpeg
     alt: ""
     title: ""
     excerpt: ""
