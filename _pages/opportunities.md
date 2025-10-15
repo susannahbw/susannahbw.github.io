@@ -16,8 +16,6 @@ We are committed to fostering a welcoming and inclusive working culture and a di
 ## Open positions 
 Open positions will be advertised here when they are available.  You can also <a href="https://www.durham.ac.uk/staff/susannah-l-bourne-worster/" class="textlink">{{"contact Susannah"}}</a> directly to enquire about possible upcoming positions that are not yet listed.
 
-**We are currently recruiting** for a postdoctoral researcher to join our group in exploring how the photodynamic properties of photosynthetic pigments are optimised by their protein environment. The post is for 2.5 years, ideally starting early in the new year. The deadline for applications is 15th October. Further information about the post and how to apply can be found <a href="https://durham.taleo.net/careersection/du_ext/jobdetail.ftl?job=25001302&tz=GMT%2B01%3A00&tzname=Europe%2FLondon" class="textlink">{{"here"}}</a>.
-
 ## Postdoctoral research fellowships
 We are keen to support enthusiastic individuals to apply for independent postdoctoral research fellowships hosted in our group.  If you would like to explore this option please <a href="https://www.durham.ac.uk/staff/susannah-l-bourne-worster/" class="textlink">{{"email Susannah"}}</a>
  with a CV and a brief description of your research interests.  We will offer support to design a suitable project and craft a competitive application. Some potential fellowship schemes are listed below but other opportunities suited to your specific project and background may also be available:
