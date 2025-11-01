@@ -31,7 +31,7 @@ header:
   </div>
   <div class="columnleft" >
   <h1> Esther Bourne </h1>
-<p>Esther completed her MSci in Chemistry and Physics at Durham University in 2024, with a final year project focusing on characterising amorphous drugs using molecular dynamics simulations and NMR. She is interested in the application of computational chemistry to understand complex materials, particularly within the field of sustainability. In her spare time she enjoys travelling, gaming and going to the gym. Esther will be joining the group in October 2025 to start a PhD exploring efficient methods for modelling the excited state dynamics of large biochromophores. </p>
+<p>Esther completed her MSci in Chemistry and Physics at Durham University in 2024, with a final year project focusing on characterising amorphous drugs using molecular dynamics simulations and NMR. She is interested in the application of computational chemistry to understand complex materials, particularly within the field of sustainability. In her spare time she enjoys travelling, gaming and going to the gym. Esther joined the group in October 2025 for a PhD exploring efficient methods for modelling the excited state dynamics of large biochromophores. </p>
   </div>
 </div>
 
@@ -43,6 +43,6 @@ header:
   </div>
   <div class="columnleft" >
   <h1> Harvey Scott </h1>
-<p>Harvey comes from North Yorkshire. Studying both Chemistry and Earth Sciences as part of the Natural Sciences program has given him a diverse perspective on the applications of chemistry in natural systems. He is particularly interested in the use of photonics to study these systems at the protein scale. In his free time Harvey enjoys hillwalking or (if it rains) tabletop games with friends. Harvey will be joining the group in October 2025 for the final year of his MChem degree.</p>
+<p>Harvey comes from North Yorkshire. Studying both Chemistry and Earth Sciences as part of the Natural Sciences program has given him a diverse perspective on the applications of chemistry in natural systems. He is particularly interested in the use of photonics to study these systems at the protein scale. In his free time Harvey enjoys hillwalking or (if it rains) tabletop games with friends. Harvey joined the group in October 2025 for the final year of his MChem degree.</p>
   </div>
 </div>
