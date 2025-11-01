@@ -10,7 +10,7 @@ excerpt: >
   Simulating photoexcited molecules in complex environments.
 
 feature_row:
-  - image_path: assets/images/BclInAntenna.jpg
+  - image_path: /assets/images/BclInAntenna.jpg
     alt: ""
     title: ""
     excerpt: ""
