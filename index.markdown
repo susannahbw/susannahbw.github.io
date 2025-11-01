@@ -24,7 +24,7 @@ feature_row:
     url: "/publications/"
     btn_class: "button"
     btn_label: "Read our papers"
-  - image_path: /assets/images/ROYAL_COMMISSION_1851_090.jpg
+  - image_path: /assets/images/JPCLett_toc.jpeg
     alt: ""
     title: ""
     excerpt: ""
