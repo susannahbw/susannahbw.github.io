@@ -24,7 +24,7 @@ feature_row:
     url: "/publications/"
     btn_class: "button"
     btn_label: "Read our papers"
-  - image_path: /assets/images/JPCLett_toc.jpeg
+  - image_path: /assets/images/GroupPic_09032026.jpeg
     alt: ""
     title: ""
     excerpt: ""
