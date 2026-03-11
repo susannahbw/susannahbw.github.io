@@ -23,6 +23,18 @@ header:
   </div>
 </div>
 
+## PDRAs
+
+<div class="row">
+  <div class="columnleft" >
+    <img src="/assets/images/LF_profilepic.JPG" alt="Lina Fransén profile picture" width="300px">
+  </div>
+  <div class="columnleft" >
+  <h1> Lina Fransén </h1>
+<p>Lina is broadly interested in photo-induced dynamics, including those in biological systems. She completed a MSc in Physical Chemistry at Uppsala University in her home country, Sweden, before moving to Nantes in France to undertake her PhD. During her PhD, she theoretically investigated the dynamics induced by the excitation and ionisation of organic molecules with femtosecond and attosecond laser pulses. Lina joined the Bourne-Worster group as a PDRA in March 2026, focusing on environment effects on the photodynamic properties of chromophores. Beyond research, she enjoys running in nature and playing squash with friends.  </p>
+  </div>
+</div>
+
 ## PhD students
 
 <div class="row">
