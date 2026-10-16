@@ -16,6 +16,10 @@ We are committed to fostering a welcoming and inclusive working culture and a di
 ## Open positions 
 Open positions will be advertised here when they are available.  You can also <a href="https://www.durham.ac.uk/staff/susannah-l-bourne-worster/" class="textlink">{{"contact Susannah"}}</a> directly to enquire about possible upcoming positions that are not yet listed.
 
+**We currently have an opening for a PhD studentship to start in autumn 2027 (3.5 years, home fees)!** Details of the studentship and how to apply can be found using the link below:
+
+[From Photosynthesis to Sustainable Solar Materials: Simulating Photoexcited Molecules in Complex Environments at Durham University on FindAPhD.com](https://www.findaphd.com/phds/project/from-photosynthesis-to-sustainable-solar-materials-simulating-photoexcited-molecules-in-complex-environments/?p200137)
+
 ## Postdoctoral research fellowships
 We are keen to support enthusiastic individuals to apply for independent postdoctoral research fellowships hosted in our group.  If you would like to explore this option please <a href="https://www.durham.ac.uk/staff/susannah-l-bourne-worster/" class="textlink">{{"email Susannah"}}</a>
  with a CV and a brief description of your research interests.  We will offer support to design a suitable project and craft a competitive application. Some potential fellowship schemes are listed below but other opportunities suited to your specific project and background may also be available:
